@@ -1,2 +1,2 @@
 <?php
-echo "Payoot LINE BOT";
+echo "Payoot LINE BOT test";
